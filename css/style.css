@@ -31,7 +31,7 @@ body::before {
 
 /* Optional translucent content wrapper */
 main, .content-wrapper {
-  background-color: rgba(255, 255, 255, 0.85);
+  background-color: rgba(255, 255, 255, 0.7);
   padding: 2rem;
   border-radius: 1rem;
   max-width: 960px;
@@ -50,7 +50,7 @@ main, .content-wrapper {
 }
 
 .banner-logo {
-  max-height: 100px;
+  max-height: 160px;
   height: auto;
   width: auto;
   margin: 0 auto;
