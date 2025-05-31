@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Project3</title>
+  <link rel="stylesheet" href="../css/style.css">
+</head>
+<body>
+  <header>
+    <h1>Project3</h1>
+  </header>
+
+  <main>
+    <p>This Unity-based project simulates astronaut-style movement in a zero-gravity environment using hand-pulling mechanics.</p>
+    <ul>
+      <li>Built in Unity with XR Toolkit</li>
+      <li>Supports rope-based navigation</li>
+      <li>Tested with Oculus and HTC Vive</li>
+    </ul>
+    <p><a href="https://github.com/yourusername/vr-locomotion">View on GitHub</a></p>
+    <p><a href="../index.html">← Back to Portfolio</a></p>
+  </main>
+</body>
+</html>
