@@ -7,9 +7,14 @@ body {
   color: #333;
 }
 .banner-logo {
-  max-height: 150px;
-  object-fit: contain;
+  display: block;
+  margin: 0 auto 1.5rem;    /* center horizontally and add space below */
+  max-height: 150px;        /* limit the height */
+  width: auto;              /* maintain aspect ratio */
+  height: auto;             /* maintain aspect ratio */
 }
+
+
 
 header {
   text-align: center;
