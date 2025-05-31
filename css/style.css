@@ -6,15 +6,24 @@ body {
   background-color: #6f8fbe;
   color: #333;
 }
-.banner-logo {
-  display: block;
-  margin: 0 auto 1.5rem;    /* center horizontally and add space below */
-  max-height: 150px;        /* limit the height */
-  width: auto;              /* maintain aspect ratio */
-  height: auto;             /* maintain aspect ratio */
+
+.sticky-header {
+  position: sticky;
+  top: 0;
+  background-color: #3b82f6; /* or whatever matches your theme */
+  z-index: 999;
+  padding: 0.5rem 0;
+  text-align: center;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* optional: subtle drop shadow */
 }
 
-
+.banner-logo {
+  max-height: 100px;
+  height: auto;
+  width: auto;
+  margin: 0 auto;
+  display: block;
+}
 
 header {
   text-align: center;
