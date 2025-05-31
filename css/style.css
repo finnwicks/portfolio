@@ -3,8 +3,12 @@ body {
   line-height: 1.6;
   margin: 0;
   padding: 2rem;
-  background-color: #f7f7f7;
+  background-color: #6f8fbe;
   color: #333;
+}
+.banner-logo {
+  max-height: 150px;
+  object-fit: contain;
 }
 
 header {
