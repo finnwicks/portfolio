@@ -26,12 +26,12 @@ body::before {
   background-size: cover;
   filter: blur(var(--blur-amount));
   z-index: -1;
-  opacity: 0.8; /* Optional: tweak visibility of background */
+  opacity: 0.42; /* Optional: tweak visibility of background */
 }
 
 /* Optional translucent content wrapper */
 main, .content-wrapper {
-  background-color: rgba(255, 255, 255, 0.9);
+  background-color: rgba(255, 255, 255, 0.42);
   padding: 2rem;
   border-radius: 1rem;
   max-width: 960px;
