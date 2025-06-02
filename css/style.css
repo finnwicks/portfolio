@@ -30,7 +30,7 @@ body::before {
 }
 
 /* Optional translucent content wrapper */
-main, .content-wrapper {
+// main, .content-wrapper {
   background-color: rgba(255, 255, 255, 0.0);
   padding: 2rem;
   border-radius: 1rem;
@@ -42,8 +42,8 @@ main, .content-wrapper {
 .sticky-header {
   position: sticky;
   top: 0;
-  background-color: #ffffff; /* Set to white */
-  background-color: rgba(0.1, 0.2, 0.8, 0.0); /* dark translucent overlay */
+  /background-color: #ffffff; /* Set to white */
+  background-color: rgba(1, 1, 1, 1); /* dark translucent overlay */
   z-index: 999;
   padding: 0.1rem 0;
   line-height: 1.2; /* Tightens vertical spacing */
