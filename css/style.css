@@ -26,7 +26,7 @@ body::before {
   background-size: cover;
   filter: blur(var(--blur-amount));
   z-index: -1;
-  opacity: 0.1; /* Optional: tweak visibility of background */
+  opacity: 0.2; /* Optional: tweak visibility of background */
 }
 
 /* Optional translucent content wrapper */
@@ -63,7 +63,7 @@ header {
 }
 
 h1, h2 {
-  color: #005f99;
+  color: #000099;
 }
 
 a {
