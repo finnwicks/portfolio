@@ -43,10 +43,9 @@ body::before {
   position: sticky;
   top: 0;
   /background-color: #ffffff; /* Set to white */
-  background-color: rgba(1, 1, 1, 1); /* dark translucent overlay */
   z-index: 999;
   padding: 0.1rem 0;
-  line-height: 1.2; /* Tightens vertical spacing */
+  line-height: 1.0; /* Tightens vertical spacing */
   text-align: center;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0);
 }
