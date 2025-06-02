@@ -122,3 +122,10 @@ footer {
   margin-top: 2rem;
   padding-bottom: 2rem;
 }
+
+.centered-image {
+  display: block;
+  margin: 1.2rem auto; /* centers it with spacing above and below */
+  max-width: 50vw;    /* maximum width is 50% of viewport width */
+  height: auto;       /* maintain aspect ratio */
+}
