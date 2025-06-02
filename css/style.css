@@ -42,12 +42,12 @@ body::before {
 .sticky-header {
   position: sticky;
   top: 0;
-  background-color: rgba(1, 1, 1, 1); /* dark translucent overlay */
+  background-color: rgba(1, 1, 1, 1); /* set to white */
   z-index: 999;
   padding: 0.1rem 0;
   line-height: .6; /* Tightens vertical spacing */
   text-align: center;
-  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.0);
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
 }
 
 .banner-logo {
