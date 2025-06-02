@@ -51,7 +51,7 @@ body::before {
 }
 
 .banner-logo {
-  max-height: 240px;
+  max-height: 140px;
   height: auto;
   width: auto;
   margin: 0 auto;
