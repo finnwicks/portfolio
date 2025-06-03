@@ -1,20 +1,15 @@
-# Congratulations! :tada:
+# Project Portfolio
 
-<img src="https://octodex.github.com/images/welcometocat.png" align="right" height="250px" />
+Welcome to my project portfolio! This repository showcases my work as a Full Stack Software Engineer at Wicks Technology limited. Here, you will find a collection of projects that demonstrate my capabilities and approach to software development.
 
-Yay **finnwicks** you finished the exercise! Nice work :tada:
+## About This Portfolio
 
-If you would like to retrace your steps, you can always revisit the exercise.
+This portfolio is designed to provide an overview of my work and the technologies I have utilised in various projects. Each project is intended to highlight my problem-solving skills and my ability to create efficient, scalable, and user-friendly applications.
 
-[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/finnwicks/portfolio/issues/1)
+Feel free to explore the projects and reach out if you have any questions or would like to discuss potential collaborations.
 
-> [!TIP]
-> Mona won't grade you this time! 😉
+## Contact
 
+For inquiries or further information, please feel free to contact me at finn.wicks@wickstech.co.uk.
 
-### Craving more? :raising_hand:
-
-Did you enjoy this practical style of learning? There's no better way to learn than building things, right?!
-
-Let's keep the momentum going! Head over to [GitHub Skills](https://skills.github.com) catalog to find another hands-on exercise. :rocket:
-
+Thank you for visiting my portfolio!
